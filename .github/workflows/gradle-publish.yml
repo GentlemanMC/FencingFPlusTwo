@@ -28,4 +28,4 @@ jobs:
         with:
           name: build
           path: ./build/libs/*release.jar  
-                ./build/libs/*all.jar
+                ./build/libs*.jar
